@@ -1,7 +1,6 @@
 - 👋 Hi, I’m 张博创
 - 👀 I’m interested in rust,Android,Harmony...
 - 🌱 I’m currently learning os
-- 
 - 📫 How to reach me 692291333@qq.com
 
 <!---
